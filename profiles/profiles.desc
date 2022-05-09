@@ -7,7 +7,7 @@
 #arch		profile_directory				status
 
 #RISCV64 Profiles
-riscv		default/riscv/20/desktop			stable
-riscv		default/riscv/20/server				stable
+riscv		default/riscv/20/desktop			dev
+riscv		default/riscv/20/server				dev
 
 # vim: set ts=8
