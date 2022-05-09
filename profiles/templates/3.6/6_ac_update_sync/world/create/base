@@ -3,7 +3,7 @@
 app-portage/eix
 dev-vcs/git
 sys-apps/calculate-utils:3
-sys-apps/openrc
+sys-apps/systemd
 
 #?in(os_linux_pkglist,CCS)==#
 app-portage/gentoolkit
