@@ -1,0 +1,7 @@
+COMMON_FLAGS="-O2 -pipe"
+CFLAGS="${COMMON_FLAGS}"
+CXXFLAGS="${COMMON_FLAGS}"
+FCFLAGS="${COMMON_FLAGS}"
+FFLAGS="${COMMON_FLAGS}"
+CHOST="riscv64-unknown-linux-gnu"
+PKGDIR="/var/calculate/packages/riscv64"

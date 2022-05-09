@@ -6,9 +6,8 @@
 #layout:
 #arch		profile_directory				status
 
-
-# AMD64 Profiles
-amd64		default/amd64/20/desktop			stable
-amd64		default/amd64/20/server				stable
+#RISCV64 Profiles
+riscv64		default/riscv64/20/desktop			stable
+riscv64		default/riscv64/20/server			stable
 
 # vim: set ts=8
