@@ -11,7 +11,7 @@ riscv		default/riscv/20/desktop			dev
 riscv		default/riscv/20/server				dev
 
 #AMD64 Profiles
-amd64		default/amd64/20/desktop			stable
-amd64		default/amd64/20/server				stable
+amd64		default/amd64/20/desktop			dev
+amd64		default/amd64/20/server				dev
 
 # vim: set ts=8
