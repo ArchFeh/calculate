@@ -12,7 +12,7 @@ app-portage/gentoolkit
 #?in(os_linux_pkglist,container)==#
 media-gfx/gfxboot-themes-calculate
 net-fs/nfs-utils
-sys-boot/grub:2
+#sys-boot/grub:2
 sys-boot/os-prober
 sys-fs/e2fsprogs
 virtual/linux-sources
