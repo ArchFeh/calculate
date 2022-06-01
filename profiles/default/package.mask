@@ -22,3 +22,5 @@ sys-libs/db:6.0
 
 # problem in cl-builder-update
 =sys-apps/calculate-utils-3.7.2.15-r2
+
+sys-fs/udev
